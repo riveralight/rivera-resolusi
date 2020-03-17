@@ -3,4 +3,4 @@ RIVERA RESOLUSI
 ~ Mengerti alur tentang membuat sistem sederhana
 ~ Belajar FrontEnd HTML 5, CSS 3 dan Javascript
 ~ Lulus KKP dan Skripsi
-~ Bisa terhubung dengan banyak orang
+~ Membuat Project Sederhana
